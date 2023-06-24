@@ -1,0 +1,17 @@
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: solid rgb(0, 42, 3) 1px;
+}
+
+.mole {
+    background-image: url('mole.png'); /* credit: https://creazilla.com/nodes/59232-mole-in-hole-clipart*/
+    background-size: cover;
+}
